@@ -1,0 +1,2 @@
+/*	connector.h */
+int initiateConnection();
