@@ -10,7 +10,7 @@ Since the server(sysprak.priv.lab.nm.ifi.lmu.de) is only within the LRZ network 
 
 please configuere the game settings at the server.
 
-Run the following command `./sysprak-clienr -g <GAME-ID> -p <{1,2}>` to start the game
+Run the following command `./sysprak-client -g <GAME-ID> -p <{1,2}>` to start the game
 
 ## Developers
 Benjamin Breunig, Flavian-Petru Iorga, Xi Zhou, Thomas Windisch
